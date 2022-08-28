@@ -1,0 +1,6 @@
+server:
+  port: ${PORT:9090}
+
+message: This server is UP
+
+
